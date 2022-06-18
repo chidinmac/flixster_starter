@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flixster Starter</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <h1>&#127909Flixter</h1>
+        <form id="search-form"> 
+            <input id="search-input"><span id="search">&#128269</span>
+            <button class="button" type="submit" id="button">
+                Search
+            </button>
+            <button class="button"id="clearbtn">
+                Clear
+            </button>
+        </form>
+    
+    <div id="movies-grid"> </div>
+    <div id="popup">
+        <!-- Close Button -->
+        <div id="close-popup-div">
+            <button id="close-popup">close</button>
+        </div>
+
+        <!--Poster Container-->
+        <div id="movie-card-image-div">
+            <img alt="overview image" id="overview-image"/>
+        </div>
+
+        <!--Overview Paragraph-->
+        <p id="overview-text">
+        </p>
+
+    </div>
+    <div id="load-more-movies-div">
+        <button class="button" id="load-more-movies-btn">More movies</button>
+    </div>
+    <button class="button" id="prev-btn">Previous Page</button>
+    <script src="script.js"></script>
+</body>
+</html>
