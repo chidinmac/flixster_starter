@@ -1,10 +1,8 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Week 1 Assignment: Flixster
 
-Submitted by: **NAME**
+Submitted by: Chidinma Chinedu
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: 20 hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -42,23 +40,26 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
 `ADD_EMBEDDED_CODE_HERE`
+<iframe 
+src="https://www.screencast.com/t/8VbuA9F7H" frameborder="0" 
+webkitallowfullscreen mozallowfullscreen allowfullscreen 
+style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+</iframe>
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
+* The topics did, specifically the responsiveness of a website in lab 1, the introduction of javascript and innerHTML for me in lab 2, the array introduction and searching in lab 3, and the introduction of api in the project demo
 
-Add your response here
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would have looked for ways to add a more movies feature for my search input and improve the css a bit more. Also would have attempted to include a youtube trailer
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Fetching the data went well after I figured out the process, what didn't go as planned is that my more movies button displays a duplicate of the previous movies when a search is activated, and I noticed one of my peer who didn't have a pop up for the movies overview but rather the poster card rotated to display the movie overview; I would like to try that 
 
 ### Open-source libraries used
 
@@ -66,4 +67,5 @@ Add your response here
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+Shout out to Mr. Yilka who basically introduced javascript to me and made me use my previous knowledge to fix bugs
+Shout out to Mr. Phineas for the personal help but especially for the demo explanations, they were very useful, especially the flixster demo we did before actually using the api
