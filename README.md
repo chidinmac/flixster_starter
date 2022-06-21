@@ -68,4 +68,4 @@ Fetching the data went well after I figured out the process, what didn't go as p
 ### Shout out
 
 Shout out to Mr. Yilka who basically introduced javascript to me and made me use my previous knowledge to fix bugs
-Shout out to Mr. Phineas for the personal help but especially for the demo explanations, they were very useful, especially the flixster demo we did before actually using the api
+<p>Shout out to Mr. Phineas for the personal help but especially for the demo explanations, they were very useful, especially the flixster demo we did before actually using the api</p>
